@@ -1,0 +1,11 @@
+{
+    "model": "SARIMAX(1,1,1)x(1,1,1,7)",
+    "train_size": 1006,
+    "test_size": 90,
+    "MAE_kWh": 1622.83,
+    "RMSE_kWh": 1856.88,
+    "MAPE_percent": 7.95,
+    "R2_score": 0.6018,
+    "AIC": 16386.81,
+    "BIC": 16411.29
+}
